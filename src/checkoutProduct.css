@@ -1,0 +1,25 @@
+
+.checkoutProduct{
+    height:200px;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    flex-grow: 3;
+    background-color:white;
+    font-weight: bold;
+    border-bottom:1px solid lightgray;
+
+}
+.checkoutProduct img{
+    width: 200px;
+    height: 150px;
+    margin-right: 15px;
+    margin-left: 15px;
+    object-fit:contain;
+
+}
+
+.checkoutProduct button{
+border:1px solid black;
+background-color:  #f0c14b;
+}

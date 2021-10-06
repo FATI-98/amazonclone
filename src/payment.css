@@ -1,0 +1,30 @@
+.payment-container{
+    background-color:white;
+    border:1px solid lightgray;
+    font-weight:bold;
+}
+.payment h2{
+    text-align: center;
+}
+.payment h2 strong{
+    color:red;
+}
+.payment-section{
+    padding-top:10px;
+    display:flex;
+    flex-direction: row;
+    align-items:center ;
+    border-bottom: 1px solid lightgray;
+      
+}
+.payment-title{
+  width:200px;
+text-align: center;
+margin-right:25px;
+margin-left:20px;
+
+}
+/* to chow cardElemt */
+.payment-details{
+    flex:0.8;
+}

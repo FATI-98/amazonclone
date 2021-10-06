@@ -1,0 +1,33 @@
+body{
+    background-color: whitesmoke;
+    margin:auto;
+}
+.home{
+    display:flex;   
+    flex-direction: column;
+    flex-wrap: wrap;
+
+    margin-left:auto;
+    margin-left:auto;
+    max-width:1500px;
+
+ 
+}
+.home-row{
+  display:flex;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  z-index:1;
+ margin-right:5px;
+ margin-left:5px;
+ background-color:lightgrey;
+
+
+
+}
+.video-img{
+    width:100%;
+    z-index:-1;
+    mask-image: linear-gradient(to bottom,rgba(0,0,0,1),rgba(0,0,0,0));
+}
