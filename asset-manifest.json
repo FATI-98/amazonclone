@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/amazonclone/static/css/main.3b6eb1cf.chunk.css",
+    "main.js": "/amazonclone/static/js/main.fc313209.chunk.js",
+    "main.js.map": "/amazonclone/static/js/main.fc313209.chunk.js.map",
+    "runtime-main.js": "/amazonclone/static/js/runtime-main.fb4354de.js",
+    "runtime-main.js.map": "/amazonclone/static/js/runtime-main.fb4354de.js.map",
+    "static/js/2.a9d43279.chunk.js": "/amazonclone/static/js/2.a9d43279.chunk.js",
+    "static/js/2.a9d43279.chunk.js.map": "/amazonclone/static/js/2.a9d43279.chunk.js.map",
+    "static/js/3.3a580231.chunk.js": "/amazonclone/static/js/3.3a580231.chunk.js",
+    "static/js/3.3a580231.chunk.js.map": "/amazonclone/static/js/3.3a580231.chunk.js.map",
+    "index.html": "/amazonclone/index.html",
+    "static/css/main.3b6eb1cf.chunk.css.map": "/amazonclone/static/css/main.3b6eb1cf.chunk.css.map",
+    "static/js/2.a9d43279.chunk.js.LICENSE.txt": "/amazonclone/static/js/2.a9d43279.chunk.js.LICENSE.txt",
+    "static/media/amazon_logo.9ee8fcb6.png": "/amazonclone/static/media/amazon_logo.9ee8fcb6.png",
+    "static/media/prime-video.9a6f94d3.jpg": "/amazonclone/static/media/prime-video.9a6f94d3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb4354de.js",
+    "static/js/2.a9d43279.chunk.js",
+    "static/css/main.3b6eb1cf.chunk.css",
+    "static/js/main.fc313209.chunk.js"
+  ]
+}
